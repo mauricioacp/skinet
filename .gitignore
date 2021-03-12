@@ -16,3 +16,8 @@ bin
 /httpRequests/
 appsettings.json
 *.db
+client/node_modules
+client/e2e
+client/ssl
+client/package-lock.json
+
