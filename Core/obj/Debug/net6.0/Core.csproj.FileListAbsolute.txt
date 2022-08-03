@@ -1,0 +1,12 @@
+C:\Programming\c#-Projects\skinet\Core\bin\Debug\net6.0\Core.deps.json
+C:\Programming\c#-Projects\skinet\Core\bin\Debug\net6.0\Core.dll
+C:\Programming\c#-Projects\skinet\Core\bin\Debug\net6.0\Core.pdb
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.dll
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\Core.pdb
+C:\Programming\c#-Projects\skinet\Core\obj\Debug\net6.0\ref\Core.dll
